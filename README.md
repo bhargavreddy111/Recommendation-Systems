@@ -14,5 +14,6 @@ songData3 = {"Angelica": {"Blues Traveler": 3.5, "Broken Bells": 2.0, "Norah Jon
          "Veronica": {"Blues Traveler": 3.0, "Norah Jones": 5.0, "Phoenix": 4.0, "Slightly Stoopid": 2.5, "The Strokes": 3.0}
         }
 
-In the first part, I wrote the code for the pearson method using the computationally efficient form
+In the first part, I wrote the code for the pearson method using the computationally efficient form.
+
 In the second part, I wrote the code to find the Nearest neighbour (k=1) recommendations for a given userX, based on the Pearson Correlation similarity measure coded in Part 1
